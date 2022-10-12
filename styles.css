@@ -1,0 +1,11 @@
+* img {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
